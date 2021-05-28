@@ -15,12 +15,12 @@ while(dados >=1){
 
 //resposta 3
 
-for(impar = 1; impar <=100; impar+=2){
+for(let impar = 1; impar <=100; impar+=2){
     console.log(impar)
 }
 
 //resposta 4
 
-for(par =0; par <=100; par+=2){
+for(var par =0; par <=100; par+=2){
     console.log(par)
 }
